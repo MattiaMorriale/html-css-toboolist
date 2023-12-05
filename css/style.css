@@ -44,7 +44,7 @@ body{
     margin-right: 12%;
     margin-top: 50px;
     margin-bottom: 30px;
-    background-color:grey;
+    background-color:white;
     border-radius: 4px;
     
 }
@@ -55,7 +55,7 @@ body{
     padding-left: 50px;
     padding-bottom: 5px;
     height: 50px;
-    border-bottom: 1px whitesmoke solid;
+    border-bottom: 3px whitesmoke solid;
 
 }
 
@@ -74,6 +74,7 @@ input{
 .color-clicked{
 
     background-color: #78a7ed;
+    color: white;
 
 }
 
@@ -83,4 +84,97 @@ input{
 
 }
 
+.contenuto{
 
+    padding-left: 50px;
+    padding-bottom: 5px;
+    height: 50px;
+
+}
+
+h2{
+
+    margin-bottom: 0px;
+    margin-top: 30px;
+    font-size: 20px;
+
+}
+
+p{
+
+    margin-top: 5px;
+
+}
+
+.simbol{
+
+    margin-right: 8px;
+    margin-left: 5px;
+    padding: 3px;
+    font-size: x-small;
+
+
+}
+
+.check{
+
+    border: green 1px solid;
+    border-radius: 50%;
+    color: green;
+
+}
+
+.cross{
+
+    border: red 1px solid;
+    border-radius: 50%;
+    color: red;
+
+}
+
+.etichetta{
+
+    padding: 6px;
+    border-radius: 10px;
+    margin-left: 5px;
+    font-size: x-small;
+    color: whitesmoke;
+
+
+}
+
+.editorial{
+
+    background-color: #78a7ed;
+
+}
+
+.q1-goals{
+
+    background-color:#9567df;
+
+}
+
+.recruiting{
+
+    background-color:#8ac1aa ;
+    
+}
+
+.mobile{
+
+    background-color: #dba447;
+
+}
+
+.website{
+
+    background-color:#bf62a0 ;
+
+}
+
+.sales{
+
+    background-color: #b5ce41;
+
+}
