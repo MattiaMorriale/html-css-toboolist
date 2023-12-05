@@ -1,7 +1,8 @@
 body{
 
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
 
 }
 
@@ -34,4 +35,52 @@ body{
     font-size: 40px;
     margin: 0;
 }
+
+#contenitore{
+
+    width: 75%;
+    height: 600px;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background-color:grey;
+    border-radius: 4px;
+    
+}
+
+
+.add-selector{
+    
+    padding-left: 50px;
+    padding-bottom: 5px;
+    height: 50px;
+    border-bottom: 1px whitesmoke solid;
+
+}
+
+input{
+
+    border-radius: 5px;
+    border: 1px grey solid;
+    color: #dfe2e5;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 5px 10px;
+    margin-top: 15px;
+
+}
+
+.color-clicked{
+
+    background-color: #78a7ed;
+
+}
+
+.color-uncliched{
+
+    background-color: white;
+
+}
+
 
